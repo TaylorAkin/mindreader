@@ -1,0 +1,38 @@
+body {
+    max-width: 100%;
+    position: relative;
+}
+
+#bigtext {
+    font-size: 45px;
+    margin-left: 12.5em;
+}
+
+#next {
+    margin-left: 13em;
+    font-size: 40px;
+    width: 200px;
+
+}
+
+#smalltext {
+
+    font-size: 20px;
+    margin-left: 27.5em;
+
+
+}
+#goreset {
+    font-size: 35px;
+    margin-top: 2em;
+    margin-left: 19em;
+    position: relative;
+    
+}
+
+.fa fa-undo {
+    font-size: 35px;
+    margin-top: 200px;
+    margin-left: 19em;
+
+}
