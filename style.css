@@ -1,32 +1,46 @@
 body {
     max-width: 100%;
-    position: relative;
+    background-image: url(images/css-background-image-size-fit-full-screen.jpg);
+    
+
+
 }
 
 #bigtext {
+    max-height: 200px;
+    overflow-y: scroll;
     font-size: 45px;
-    margin-left: 12.5em;
+    color: azure;
+    text-align: center;
+
 }
 
 #next {
     margin-left: 13em;
     font-size: 40px;
     width: 200px;
+    border-radius: 25%;
+    text-align: center;
+    
 
 }
 
 #smalltext {
-
+    position: relative;
     font-size: 20px;
-    margin-left: 27.5em;
+    color: azure;
+    text-align: center;
 
 
 }
 #goreset {
-    font-size: 35px;
-    margin-top: 2em;
-    margin-left: 19em;
+    width: 50%;
+    font-size: 90px;
+    margin-top: 1em;
+    margin-left: 3.2em;
+    border-radius: 40%;
     position: relative;
+
     
 }
 
